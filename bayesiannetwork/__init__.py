@@ -1,7 +1,3 @@
-"""Python Bayesian Networks
-"""
-
-__version__ = '1'
 
 
 try:
