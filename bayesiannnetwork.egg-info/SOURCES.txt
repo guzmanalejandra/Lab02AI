@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+bayesiannetwork/__init__.py
+bayesiannetwork/network.py
+bayesiannetwork/nodes.py
+bayesiannnetwork.egg-info/PKG-INFO
+bayesiannnetwork.egg-info/SOURCES.txt
+bayesiannnetwork.egg-info/dependency_links.txt
+bayesiannnetwork.egg-info/top_level.txt
