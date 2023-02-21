@@ -2,9 +2,15 @@
 
 Librería para hacer redes bayesianas e Inferencia probabilistica.
 
-+**Se necesita numpy**
+Instalar antes:
+
+```
+pip install numpy
+
+```
 
 Instalar la librería:
 ```
-pip install
+pip install bayesiannetwork
+
 ```
